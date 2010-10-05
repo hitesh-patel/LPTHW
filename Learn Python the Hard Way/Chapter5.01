@@ -1,0 +1,7 @@
+my_name = 'John Smith'
+my_age = 24
+my_height = 72
+my_weight = 180
+my_eyes = 'Black'
+
+print "Let's talk about %s." % my_name
